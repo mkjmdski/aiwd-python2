@@ -3,7 +3,8 @@ ipykernel
 numpy
 SQLAlchemy
 scikit-learn
-pandas
+pandas==2.3.*
 seaborn
-pytest
+pytest  
+openpyxl
 matplotlib

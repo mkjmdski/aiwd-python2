@@ -1,0 +1,9 @@
+ipython
+ipykernel
+numpy
+SQLAlchemy
+scikit-learn
+pandas==3.0.0rc0
+seaborn
+pytest
+
